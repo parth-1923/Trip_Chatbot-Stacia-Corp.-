@@ -1,0 +1,985 @@
+{
+    "Delhi": {
+        "places_to_visit": [
+            {
+                "name": "India Gate",
+                "description": "A war memorial dedicated to Indian soldiers."
+            },
+            {
+                "name": "Qutub Minar",
+                "description": "The tallest brick minaret in the world."
+            },
+            {
+                "name": "Red Fort",
+                "description": "A UNESCO World Heritage site and a symbol of India's history."
+            },
+            {
+                "name": "Lotus Temple",
+                "description": "A Bahá'í House of Worship known for its flower-like architecture."
+            },
+            {
+                "name": "Humayun's Tomb",
+                "description": "A beautiful garden tomb and a UNESCO World Heritage site."
+            }
+        ],
+        "restaurants": [
+            {
+                "name": "Bukhara",
+                "cuisine": "Indian",
+                "rating": 5,
+                "description": "Famous for its kebabs and traditional Indian dishes.",
+                "price_range": "₹₹₹₹"
+
+            },
+            {
+                "name": "Indian Accent",
+                "cuisine": "Indian",
+                "rating": 5,
+                "description": "Innovative Indian cuisine with a contemporary twist.",
+                "price_range": "₹₹₹₹"
+            },
+            {
+                "name": "Olive Bar and Kitchen",
+                "cuisine": "Mediterranean",
+                "rating": 5,
+                "description": "Known for its thin-crust pizzas and vibrant atmosphere.",
+                "price_range": "₹₹₹"
+            },
+            {
+                "name": "Spicy Duck",
+                "cuisine": "Chinese",
+                "rating": 5,
+                "price_range": "₹₹₹₹",
+                "description": "Specializes in duck dishes from Taishan & Chengdu."
+            }
+        ],
+        "famous_foods": [
+            {
+                "name": "Butter Chicken",
+                "description": "A creamy tomato-based curry with tender chicken pieces."
+            },
+            {
+                "name": "Chaat",
+                "description": "A savory snack made with a variety of ingredients including potatoes, chickpeas, and spices."
+            },
+            {
+                "name": "Paratha",
+                "description": "Flaky Indian bread often stuffed with various fillings."
+            },
+            {
+                "name": "Biryani",
+                "description": "A fragrant rice dish cooked with spices and meat or vegetables."
+            }
+        ],
+        "hotels": [
+            {
+                "name": "The Oberoi, New Delhi",
+                "rating": 5,
+                "price_range": "₹₹₹₹",
+                "description": "Luxury hotel with fine dining options and a spa."
+                
+            },
+            {
+                "name": "Taj Mahal Hotel",
+                "rating": 5,
+                "description": "Iconic hotel known for its opulence and hospitality.",
+                "price_range": "₹₹₹₹"
+            },
+            {
+                "name": "ITC Maurya",
+                "rating": 5,
+                "price_range": "₹₹₹₹",
+                "description": "Luxury hotel with exquisite dining options."
+            },
+            {
+                "name": "Radisson Blu Marina Hotel",
+                "rating": 4,
+                "price_range": "₹₹₹",
+                "description": "Modern hotel with comfortable amenities and dining options."
+            }
+            
+        ]
+    },
+    "Kolkata": {
+        "places_to_visit": [
+            {
+                "name": "Victoria Memorial",
+                "description": "A grand white marble monument dedicated to Queen Victoria, featuring a museum with historical artifacts."
+            },
+            {
+                "name": "Howrah Bridge",
+                "description": "An iconic steel bridge connecting Howrah and Kolkata, known for its stunning views and bustling activity."
+            },
+            {
+                "name": "Dakshineswar Kali Temple",
+                "description": "A historic temple dedicated to Goddess Kali, located on the banks of the Hooghly River."
+            },
+            {
+                "name": "Botanical Garden",
+                "description": "Home to over 12,000 species of plants, featuring the famous Great Banyan tree."
+            },
+            {
+                "name": "New Town Eco Park",
+                "description": "A large urban park offering recreational activities like ice skating, kayaking, and zorbing."
+            }
+        ],
+        "restaurants": [
+            {
+                "name": "6 Ballygunge Place",
+                "cuisine": "Bengali",
+                "rating": 5,
+                "description": "Famous for authentic Bengali cuisine in a traditional setting.",
+                "price_range": "₹₹₹"
+            },
+            {
+                "name": "Peter Cat",
+                "cuisine": "Continental/Indian",
+                "rating": 4,
+                "description": "Known for its Chelo Kebab and vibrant atmosphere.",
+                "price_range": "₹₹₹"
+            },
+            {
+                "name": "Bhojohori Manna",
+                "cuisine": "Bengali",
+                "rating": 4,
+                "description": "A popular restaurant serving traditional Bengali dishes.",
+                "price_range": "₹₹"
+            },
+            {
+                "name": "Mocambo",
+                "cuisine": "Continental/Indian",
+                "rating": 4,
+                "description": "Famous for its seafood and lively ambiance.",
+                "price_range": "₹₹₹"
+            }
+        ],
+        "famous_foods": [
+            {
+                "name": "Macher Jhol",
+                "description": "A traditional Bengali fish curry made with spices and vegetables."
+            },
+            {
+                "name": "Rasgulla",
+                "description": "Soft cheese balls soaked in sugar syrup, a famous Bengali sweet."
+            },
+            {
+                "name": "Sandesh",
+                "description": "A sweet made from fresh paneer, often flavored with fruits."
+            },
+            {
+                "name": "Shorshe Ilish",
+                "description": "Hilsa fish cooked in mustard sauce, a Bengali delicacy."
+            }
+        ],
+        "hotels": [
+            {
+                "name": "The Oberoi Grand",
+                "rating": 5,
+                "price_range": "₹₹₹₹",
+                "description": "Luxury hotel known for its heritage architecture and modern amenities."
+            },
+            {
+                "name": "Taj Bengal",
+                "rating": 5,
+                "price_range": "₹₹₹₹",
+                "description": "Elegant hotel with fine dining options and a spa."
+            },
+            {
+                "name": "ITC Sonar Kolkata",
+                "rating": 5,
+                "price_range": "₹₹₹₹",
+                "description": "Luxury hotel set amidst lush gardens with a focus on sustainability."
+            },
+            {
+                "name": "The Park Kolkata",
+                "rating": 4,
+                "price_range": "₹₹₹",
+                "description": "Contemporary hotel known for its vibrant nightlife and dining options."
+            }
+        ]
+    },
+    "Chennai": {
+        "places_to_visit": [
+            {
+                "name": "Marina Beach",
+                "description": "One of the longest urban beaches in the world, known for its scenic beauty and local street food."
+            },
+            {
+                "name": "Fort St. George",
+                "description": "The first fortress built by the British in India, now housing a museum and the Tamil Nadu Legislative Assembly."
+            },
+            {
+                "name": "Sri Parthasarathy Temple",
+                "description": "An ancient temple dedicated to Lord Krishna, showcasing stunning Dravidian architecture."
+            },
+            {
+                "name": "Kapaleeshwarar Temple",
+                "description": "A historic temple dedicated to Lord Shiva, famous for its intricate sculptures and vibrant gopurams."
+            },
+            {
+                "name": "Valluvar Kottam",
+                "description": "A monument dedicated to the Tamil poet Thiruvalluvar, featuring a life-size statue and inscriptions of his work."
+            }
+        ],
+        "restaurants": [
+            {
+                "name": "Murugan Idli Shop",
+                "cuisine": "South Indian",
+                "rating": 5,
+                "description": "Famous for its delicious idlis and traditional South Indian breakfast.",
+                "price_range": "₹"
+            },
+            {
+                "name": "Sangeetha Veg Restaurant",
+                "cuisine": "Vegetarian",
+                "rating": 4,
+                "description": "Known for its extensive vegetarian menu and quick service.",
+                "price_range": "₹₹"
+            },
+            {
+                "name": "Barbeque Nation",
+                "cuisine": "Barbecue",
+                "rating": 5,
+                "description": "Popular for its live grill concept and buffet spreads.",
+                "price_range": "₹₹₹"
+            },
+            {
+                "name": "The Fisherman's Wharf",
+                "cuisine": "Seafood",
+                "rating": 4,
+                "description": "Renowned for its coastal cuisine and seafood specialties.",
+                "price_range": "₹₹₹"
+            }
+        ],
+        "famous_foods": [
+            {
+                "name": "Dosa",
+                "description": "A thin, crispy pancake made from fermented rice and lentil batter."
+            },
+            {
+                "name": "Idli",
+                "description": "Steamed rice cakes served with chutney and sambar."
+            },
+            {
+                "name": "Chettinad Chicken Curry",
+                "description": "Spicy chicken curry from the Chettinad region, known for its rich flavors."
+            },
+            {
+                "name": "Filter Coffee",
+                "description": "Strong South Indian coffee brewed using a traditional filter."
+            }
+        ],
+        "hotels": [
+            {
+                "name": "Taj Coromandel",
+                "rating": 5,
+                "price_range": "₹₹₹₹",
+                "description": "Luxury hotel known for its elegant decor and fine dining."
+            },
+            {
+                "name": "ITC Grand Chola",
+                "rating": 5,
+                "price_range": "₹₹₹₹",
+                "description": "A grand hotel reflecting South Indian architecture with modern amenities."
+            },
+            {
+                "name": "Radisson Blu Hotel Chennai",
+                "rating": 4,
+                "price_range": "₹₹₹",
+                "description": "Contemporary hotel with spacious rooms and a variety of dining options."
+            },
+            {
+                "name": "The Leela Palace Chennai",
+                "rating": 5,
+                "price_range": "₹₹₹₹",
+                "description": "Luxury hotel offering stunning views of the Bay of Bengal."
+            }
+        ]
+    },
+    "Bangalore": {
+        "places_to_visit": [
+            {
+                "name": "Lalbagh Botanical Garden",
+                "description": "A historic garden featuring a diverse collection of plants and a glass house inspired by London's Crystal Palace."
+            },
+            {
+                "name": "Bangalore Palace",
+                "description": "A Tudor-style palace with beautiful architecture and sprawling grounds, offering a glimpse into the royal history of Bangalore."
+            },
+            {
+                "name": "Cubbon Park",
+                "description": "A large green park in the heart of the city, perfect for leisurely walks and picnics."
+            },
+            {
+                "name": "Vidhana Soudha",
+                "description": "The seat of the state legislature of Karnataka, known for its stunning Neo-Dravidian architecture."
+            },
+            {
+                "name": "ISKCON Temple",
+                "description": "A prominent temple dedicated to Lord Krishna, known for its beautiful architecture and peaceful ambiance."
+            }
+        ],
+        "restaurants": [
+            {
+                "name": "Mavalli Tiffin Room (MTR)",
+                "cuisine": "South Indian",
+                "rating": 5,
+                "description": "Famous for its authentic South Indian meals, particularly dosas and filter coffee.",
+                "price_range": "₹"
+            },
+            {
+                "name": "Truffles Koramangala",
+                "cuisine": "Continental",
+                "rating": 4,
+                "description": "Known for its burgers and steak in a family-friendly setting.",
+                "price_range": "₹₹₹"
+            },
+            {
+                "name": "The Only Place",
+                "cuisine": "Continental",
+                "rating": 4,
+                "description": "Popular for its steaks and laid-back atmosphere.",
+                "price_range": "₹₹₹"
+            },
+            {
+                "name": "Empire Restaurant",
+                "cuisine": "Mughlai/Arabian",
+                "rating": 3,
+                "description": "Famous for its kebabs and biryani.",
+                "price_range": "₹₹"
+            }
+        ],
+        "famous_foods": [
+            {
+                "name": "Biryani",
+                "description": "A fragrant rice dish cooked with spices and meat or vegetables."
+            },
+            {
+                "name": "Dosa",
+                "description": "A thin, crispy pancake made from fermented rice and lentil batter."
+            },
+            {
+                "name": "Idli",
+                "description": "Steamed rice cakes served with chutney and sambar."
+            },
+            {
+                "name": "Filter Coffee",
+                "description": "Strong South Indian coffee brewed using a traditional filter."
+            }
+        ],
+        "hotels": [
+            {
+                "name": "Taj West End",
+                "rating": 5,
+                "price_range": "₹₹₹₹",
+                "description": "Luxury hotel set amidst lush gardens with modern amenities."
+            },
+            {
+                "name": "ITC Gardenia",
+                "rating": 5,
+                "price_range": "₹₹₹₹",
+                "description": "Eco-friendly luxury hotel with a focus on sustainability."
+            },
+            {
+                "name": "Radisson Blu Bengaluru Outer Ring Road",
+                "rating": 4,
+                "price_range": "₹₹₹",
+                "description": "Contemporary hotel with spacious rooms and multiple dining options."
+            },
+            {
+                "name": "The Leela Palace Bengaluru",
+                "rating": 5,
+                "price_range": "₹₹₹₹",
+                "description": "Opulent hotel offering luxurious accommodations and fine dining."
+            }
+        ]
+    },
+    "Hyderabad": {
+        "places_to_visit": [
+            {
+                "name": "Charminar",
+                "description": "An iconic 16th-century mosque known for its stunning architecture and bustling markets."
+            },
+            {
+                "name": "Golconda Fort",
+                "description": "A historic fort known for its impressive acoustics and panoramic views of the city."
+            },
+            {
+                "name": "Hussain Sagar Lake",
+                "description": "A man-made lake famous for its large Buddha statue and scenic views."
+            },
+            {
+                "name": "Ramoji Film City",
+                "description": "One of the largest film cities in the world, offering guided tours and entertainment options."
+            },
+            {
+                "name": "Salar Jung Museum",
+                "description": "One of the largest art museums in India, showcasing a vast collection of artifacts."
+            }
+        ],
+        "restaurants": [
+            {
+                "name": "Paradise Biryani",
+                "cuisine": "Hyderabadi",
+                "rating": 5,
+                "description": "Famous for its Hyderabadi biryani, a must-try when in the city.",
+                "price_range": "₹₹"
+            },
+            {
+                "name": "Bawarchi Restaurant",
+                "cuisine": "Indian",
+                "rating": 2,
+                "description": "Known for its delicious biryanis and North Indian dishes.",
+                "price_range": "₹₹"
+            },
+            {
+                "name": "Chutneys",
+                "cuisine": "South Indian",
+                "rating": 4,
+                "description": "Popular for its extensive dosa menu and chutneys.",
+                "price_range": "₹₹"
+            },
+            {
+                "name": "The Fisherman's Wharf",
+                "cuisine": "Seafood",
+                "rating": 4,
+                "description": "Renowned for its coastal cuisine and seafood specialties.",
+                "price_range": "₹₹₹"
+            }
+        ],
+        "famous_foods": [
+            {
+                "name": "Hyderabadi Biryani",
+                "description": "A fragrant rice dish cooked with marinated meat, spices, and saffron."
+            },
+            {
+                "name": "Haleem",
+                "description": "A slow-cooked stew made from meat, lentils, and spices, popular during Ramadan."
+            },
+            {
+                "name": "Mirchi Ka Salan",
+                "description": "A spicy curry made with green chilies, often served with biryani."
+            },
+            {
+                "name": "Double Ka Meetha",
+                "description": "A rich bread pudding made with milk, sugar, and dry fruits."
+            }
+        ],
+        "hotels": [
+            {
+                "name": "Taj Falaknuma Palace",
+                "rating": 5,
+                "price_range": "₹₹₹₹",
+                "description": "Luxury heritage hotel located in a restored palace."
+            },
+            {
+                "name": "ITC Kakatiya",
+                "rating": 5,
+                "price_range": "₹₹₹₹",
+                "description": "Elegant hotel with modern amenities and fine dining options."
+            },
+            {
+                "name": "Radisson Hyderabad Hitec City",
+                "rating": 4,
+                "price_range": "₹₹₹",
+                "description": "Contemporary hotel located near the IT hub of Hyderabad."
+            },
+            {
+                "name": "The Leela Palace Hyderabad",
+                "rating": 5,
+                "price_range": "₹₹₹₹",
+                "description": "Opulent hotel offering luxurious accommodations near Hussain Sagar Lake."
+            }
+        ]
+    },
+    "Goa": {
+        "places_to_visit": [
+            {
+                "name": "Baga Beach",
+                "description": "A popular beach with water sports and nightlife."
+            },
+            {
+                "name": "Fort Aguada",
+                "description": "A historic fort with panoramic sea views."
+            },
+            {
+                "name": "Dudhsagar Waterfalls",
+                "description": "Spectacular waterfalls located in the Bhagwan Mahavir Wildlife Sanctuary."
+            },
+            {
+                "name": "Anjuna Beach",
+                "description": "Famous for its vibrant flea market and nightlife."
+            },
+            {
+                "name": "Calangute Beach",
+                "description": "Known as the 'Queen of Beaches' for its scenic beauty."
+            }
+        ],
+        "restaurants": [
+            {
+                "name": "Fisherman's Wharf",
+                "cuisine": "Seafood",
+                "rating": 5,
+                "description": "Famous for Goan cuisine.",
+                "price_range": "₹₹"
+            },
+            {
+                "name": "Pousada by the Beach",
+                "cuisine": "Portuguese",
+                "rating": 4,
+                "description": "Authentic Portuguese flavors.",
+                "price_range": "₹₹₹"
+            },
+            {
+                "name": "Miri",
+                "cuisine": "International",
+                "rating": 4,
+                "description": "All-day dining restaurant with Goan specialties and health-conscious dishes.",
+                "price_range": "₹₹₹"
+            },
+            {
+                "name": "Oliveto",
+                "cuisine": "Italian",
+                "rating": 4,
+                "description": "Acclaimed for authentic Italian cuisine in a fine-dining setting.",
+                "price_range": "₹₹₹₹"
+            }
+        ],
+        "famous_foods": [
+            {
+                "name": "Prawn Balchão",
+                "description": "Spicy Goan prawn pickle."
+            },
+            {
+                "name": "Bebinca",
+                "description": "A traditional Goan dessert."
+            },
+            {
+                "name": "Vindaloo",
+                "description": "A spicy curry dish originally from Portugal."
+            },
+            {
+                "name": "Fish Curry Rice",
+                "description": "A staple Goan dish made with fresh fish and coconut milk."
+            }
+        ],
+        "hotels": [
+            {
+                "name": "Taj Exotica",
+                "rating": 5,
+                "price_range": "₹₹₹₹",
+                "description": "Luxury beachfront resort."
+            },
+            {
+                 "name": "Vivanta Goa",
+                 "rating": 4,
+                 "price_range": "₹₹₹",
+                 "description": "Elegant hotel with modern amenities."
+             },
+             {
+                 "name": "The St. Regis Goa Resort",
+                 "rating": 5,
+                 "price_range": "₹₹₹₹",
+                 "description": "Luxury resort with exquisite dining options and stunning views."
+             },
+             {
+                 "name": "W Goa",
+                 "rating": 5,
+                 "price_range": "₹₹₹₹",
+                 "description": "Trendy hotel known for its vibrant atmosphere and beachfront location."
+             }
+         ]
+    },
+    "Jaipur": {
+        "places_to_visit": [
+            {
+                "name": "Hawa Mahal",
+                "description": "Known as the 'Palace of Winds', this iconic structure features intricate latticework and numerous windows."
+            },
+            {
+                "name": "Amber Fort",
+                "description": "A majestic fort with stunning architecture and panoramic views of the surrounding hills."
+            },
+            {
+                "name": "City Palace",
+                "description": "A royal residence that showcases a blend of Rajasthani and Mughal architecture."
+            },
+            {
+                "name": "Jantar Mantar",
+                "description": "An astronomical observatory with a collection of architectural astronomical instruments."
+            },
+            {
+                "name": "Nahargarh Fort",
+                "description": "A fort offering breathtaking views of the Pink City, especially at sunset."
+            }
+        ],
+        "restaurants": [
+            {
+                "name": "Chokhi Dhani",
+                "cuisine": "Rajasthani",
+                "rating": 5,
+                "description": "An ethnic village resort that offers traditional Rajasthani dining experiences.",
+                "price_range": "₹₹₹"
+            },
+            {
+                "name": "Suvarna Mahal",
+                "cuisine": "Indian",
+                "rating": 5,
+                "description": "Located in Rambagh Palace, it offers a royal dining experience with traditional Indian cuisine.",
+                "price_range": "₹₹₹₹"
+            },
+            {
+                 "name": "The Rajput Room",
+                 "cuisine": "Multi-Cuisine",
+                "rating": 4,
+                 "description": "Fine dining restaurant in Rambagh Palace known for its elegant ambiance.",
+                 "price_range": "₹₹₹₹"
+             },
+             {
+                 "name": "Peacock Rooftop Restaurant",
+                 "cuisine": "Multi-Cuisine",
+                 "rating": 4,
+                 "description": "Offers a beautiful view along with a variety of cuisines in a vibrant setting.",
+                 "price_range": "₹₹₹"
+             }
+         ],
+         "famous_foods": [
+             {
+                 "name": "Dal Baati Churma",
+                 "description": "A traditional Rajasthani dish made of lentils, wheat balls, and sweet crumbled bread."
+             },
+             {
+                 "name": "Laal Maas",
+                 "description": "A spicy mutton curry made with red chilies, typical of Rajasthani cuisine."
+             },
+             {
+                 "name": "Gatte ki Sabzi",
+                 "description": "Gram flour dumplings cooked in a spicy yogurt gravy."
+             },
+             {
+                 "name": "Rajasthani Thali",
+                 "description": "A platter offering a variety of Rajasthani dishes, showcasing the region's culinary diversity."
+             }
+         ],
+         "hotels": [
+             {
+                 "name": "Rambagh Palace",
+                 "rating": 5,
+                 "price_range": "₹₹₹₹",
+                 "description": "Luxury heritage hotel offering royal accommodations and fine dining."
+             },
+             {
+                  "name": "ITC Rajputana",
+                  "rating": 5,
+                  "price_range": "₹₹₹₹",
+                  "description": "Opulent hotel blending traditional Rajasthani hospitality with modern amenities."
+              },
+              {
+                  "name": "Hilton Jaipur",
+                  "rating": 4,
+                  "price_range": "₹₹₹",
+                  "description": "Contemporary hotel known for its luxurious rooms and excellent service."
+              },
+              {
+                  "name": "The Lalit Jaipur",
+                  "rating": 5,
+                  "price_range": "₹₹₹₹",
+                  "description": "Upscale hotel featuring spacious rooms and a range of dining options."
+              }
+          ]
+    },
+    "Madurai": {
+          "places_to_visit": [
+              {
+                  "name": "Meenakshi Amman Temple",
+                  "description": "A historic Hindu temple dedicated to Goddess Meenakshi, known for its stunning architecture and intricate carvings."
+              },
+              {
+                  "name": "Thirumalai Nayakkar Palace",
+                  "description": "A grand palace built in the 17th century, showcasing Indo-Saracenic architecture."
+              },
+              {
+                  "name": "Gandhi Museum",
+                  "description": "A museum dedicated to Mahatma Gandhi, featuring artifacts from his life and the Indian independence movement."
+              },
+              {
+                  "name": "Alagar Koyil",
+                  "description": "An ancient temple located in the hills, dedicated to Lord Vishnu."
+              },
+              {
+                  "name": "Vaigai River",
+                  "description": "A scenic river perfect for leisurely walks and enjoying nature."
+              }
+          ],
+          "restaurants": [
+              {
+                  "name": "Sree Sabarees",
+                  "cuisine": "South Indian",
+                  "rating": 5,
+                  "description": "Famous for its vegetarian meals and authentic South Indian breakfast.",
+                  "price_range": "₹"
+              },
+              {
+                   "name": "Kumar Mess",
+                   "cuisine": "Non-Vegetarian",
+                   "rating": 4,
+                   "description": "Known for its delicious non-vegetarian dishes and local flavors.",
+                   "price_range": "₹₹"
+               },
+               {
+                   "name": "The Modern Restaurant",
+                   "cuisine": "Multi-Cuisine",
+                   "rating": 4,
+                   "description": "Offers a variety of cuisines including North Indian and Chinese.",
+                   "price_range": "₹₹"
+               },
+               {
+                   "name": "Sri Ram Mess",
+                   "cuisine": "Non-Vegetarian",
+                    "rating": 4,
+                   "description": "Popular for its biryanis and traditional South Indian meals.",
+                   "price_range": "₹₹"
+               }
+           ],
+           "famous_foods": [
+               {
+                   "name": "Idli",
+                   "description": "Steamed rice cakes served with chutney and sambar."
+               },
+               {
+                   "name": "Dosa",
+                   "description": "Crispy rice pancakes served with various chutneys."
+               },
+               {
+                   "name": "Chettinad Chicken Curry",
+                   "description": "Spicy chicken curry from the Chettinad region, known for its rich flavors."
+               },
+               {
+                   "name": "Mutton Biryani",
+                   "description": "Fragrant rice dish cooked with marinated mutton and spices."
+               }
+           ],
+           "hotels": [
+               {
+                   "name": "Heritage Madurai",
+                   "rating": 5,
+                   "price_range": "₹₹₹₹",
+                   "description": "Luxury hotel reflecting traditional Tamil architecture with modern amenities."
+               },
+               {
+                    "name": "The Gateway Hotel Pasumalai Madurai",
+                    "rating": 4,
+                    "price_range": "₹₹₹",
+                    "description": "Elegant hotel offering stunning views of the city and comfortable accommodations."
+                },
+                {
+                    "name": "Madurai Residency",
+                    "rating": 4,
+                    "price_range": "₹₹₹",
+                    "description": "Well-appointed hotel located near major attractions in Madurai."
+                },
+                {
+                    "name": "Hotel Supreme",
+                    "rating": 3,
+                    "price_range": "₹₹",
+                    "description": "Budget-friendly hotel known for its convenient location and basic amenities."
+                }
+           ]
+    },
+    "Kochi": {
+        "places_to_visit": [
+            {
+                "name": "Mattancherry Palace",
+                "description": "Also known as the Dutch Palace, it features Kerala murals depicting Hindu temple art and portraits of the Rajas of Kochi."
+            },
+            {
+                "name": "Fort Kochi",
+                "description": "A historic area known for its colonial architecture, Chinese fishing nets, and vibrant art scene."
+            },
+            {
+                "name": "Jew Town",
+                "description": "A historic neighborhood that includes the Paradesi Synagogue and a variety of antique shops."
+            },
+            {
+                "name": "Marine Drive",
+                "description": "A picturesque promenade along the backwaters, perfect for evening strolls."
+            },
+            {
+                "name": "Hill Palace Museum",
+                "description": "The largest archaeological museum in Kerala, showcasing royal artifacts and traditional architecture."
+            }
+        ],
+        "restaurants": [
+            {
+                "name": "Kochi Kitchen",
+                "cuisine": "Multi-Cuisine",
+                "rating": 5,
+                "description": "'Offers a variety of local and international dishes with a focus on fresh seafood.",
+                "price_range": "₹₹₹"
+            },
+            {
+                "name": "Fort Kochi Beach Restaurant",
+                "cuisine": "Seafood",
+                "rating": 2,
+                "description": "Known for its fresh catch and stunning views of the sea.",
+                "price_range": "₹₹"
+            },
+            {
+                 "name": "Bistro",
+                 "cuisine": "Cafe",
+                    "rating": 3,
+                 "description": "A cozy spot for coffee, pastries, and light meals.",
+                 "price_range": "₹"
+             },
+             {
+                 "name": "The Rice Boat",
+                 "cuisine": "Kerala Cuisine",
+                    "rating": 4,
+                 "description": "Specializes in traditional Kerala dishes served in a unique setting.",
+                 "price_range": "₹₹₹"
+             }
+         ],
+         "famous_foods": [
+             {
+                 "name": "Fish Moilee",
+                 "description": "A coconut milk-based fish curry, a staple of Kerala cuisine."
+             },
+             {
+                 "name": "Appam with Stew",
+                 "description": "Soft rice pancakes served with a flavorful vegetable or meat stew."
+             },
+             {
+                 "name": "Puttu and Kadala",
+                 "description": "Steamed rice cake served with black chickpeas in coconut gravy."
+             },
+             {
+                 "name": "Karimeen Pollichathu",
+                 "description": "Pearl spot fish marinated and wrapped in banana leaves before grilling."
+             }
+         ],
+         "hotels": [
+             {
+                 "name": "Taj Malabar Resort & Spa",
+                 "rating": 5,
+                 "price_range": "₹₹₹₹",
+                 "description": "Luxury resort offering stunning views of the backwaters and excellent amenities."
+             },
+             {
+                  "name": "Le Meridien Kochi",
+                  "rating": 5,
+                  "price_range": "₹₹₹₹",
+                  "description": "Upscale hotel set amidst lush greenery with multiple dining options."
+              },
+              {
+                  "name": "Crowne Plaza Kochi",
+                  "rating": 4,
+                  "price_range": "₹₹₹",
+                  "description": "Modern hotel with a waterfront location and extensive facilities."
+              },
+              {
+                  "name": "Hotel Fort Queen",
+                  "rating": 3,
+                  "price_range": "₹₹",
+                  "description": "Budget-friendly hotel located near Fort Kochi's attractions."
+              }
+          ]
+    },
+    "Manali": {
+          "places_to_visit": [
+              {
+                  "name": "Solang Valley",
+                  "description": "Famous for adventure sports like paragliding, skiing, and zorbing."
+              },
+              {
+                  "name": "Hadimba Temple",
+                  "description": "An ancient temple surrounded by cedar forests, dedicated to Goddess Hadimba."
+              },
+              {
+                  "name": "Old Manali Village",
+                  "description": "Known for its quaint cafes, shops, and beautiful views of the mountains."
+              },
+              {
+                  "name": "Rohtang Pass",
+                  "description": "A high mountain pass offering stunning views and snow activities (seasonal access)."
+              },
+              {
+                  "name": "Manu Temple",
+                  "description": "Dedicated to the sage Manu, this temple is located in Old Manali amidst scenic surroundings."
+              }
+          ],
+          "restaurants": [
+              {
+                  "name": "The Johnson Lodge & Spa",
+                  "cuisine": "Multi-Cuisine",
+                  "rating": 5,
+                  "description": "Offers a range of cuisines in a cozy setting.",
+                  "price_range": "₹₹"
+              },
+              {
+                   "name": "Cafe 1947",
+                   "cuisine": "Italian",
+                   "rating": 4,
+                   "description": "Famous for its pizzas and riverside ambiance.",
+                   "price_range": "₹₹"
+               },
+               {
+                   "name": "The Lazy Dog",
+                   "cuisine": "Cafe",
+                     "rating": 3,
+                   "description": "Known for its relaxed atmosphere and diverse menu.",
+                   "price_range": "₹₹"
+               },
+               {
+                   "name": "Chopsticks",
+                   "cuisine": "Chinese/Indian",
+                   "rating": 4,
+                   "description": "Popular for its Indo-Chinese dishes.",
+                   "price_range": "₹₹"
+               }
+           ],
+           "famous_foods": [
+               {
+                   "name": "Sidu",
+                   "description": "A traditional Himachali bread made from wheat flour, often served with ghee or chutney."
+               },
+               {
+                   "name": "Chana Madra",
+                   "description": "A chickpea curry cooked with yogurt and spices, typical of Himachali cuisine."
+               },
+               {
+                   "name": "Dham",
+                   "description": "A traditional Himachali meal served during festivals, consisting of rice and various lentil dishes."
+               },
+               {
+                   "name": "Kullu Trout Fish",
+                   "description": "Freshwater fish cooked with local spices, popular among tourists."
+               }
+           ],
+           "hotels": [
+               {
+                   "name": "The Himalayan Resort & Spa",
+                   "rating": 5,
+                   "price_range": "₹₹₹₹",
+                   "description": "Luxury resort offering stunning views of the mountains and top-notch amenities."
+               },
+               {
+                    "name": "Manali Inn Hotel & Spa",
+                    "rating": 4,
+                    "price_range": "₹₹₹",
+                    "description": "Comfortable hotel with modern facilities located near the Mall Road."
+                },
+                {
+                    "name": "Hotel Royal Castle",
+                    "rating": 4,
+                    "price_range": "₹₹₹",
+                    "description": "Well-appointed hotel featuring beautiful views of the valley."
+                },
+                {
+                    "name": "Hotel New Adarsh",
+                    "rating": 3,
+                    "price_range": "₹₹",
+                    "description": "Budget-friendly accommodation located in the heart of Manali."
+                }
+           ]
+    }
+}
